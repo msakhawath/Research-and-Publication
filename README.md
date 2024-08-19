@@ -1,5 +1,6 @@
-A paper has been accepted and will be published soon 
+A paper has been published on Anomaly Detection.
+
+The paper should be read thoroughly to gain proper insights into the code snippets.
 
 
 
-Code will be uploaded soon. Paper link has been uploaded.
